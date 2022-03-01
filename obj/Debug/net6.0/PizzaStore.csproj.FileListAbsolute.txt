@@ -19,3 +19,9 @@ C:\Users\TG456GS\source\repos\training\PizzaStore\PizzaStore\obj\Debug\net6.0\Pi
 C:\Users\TG456GS\source\repos\training\PizzaStore\PizzaStore\obj\Debug\net6.0\ref\PizzaStore.dll
 C:\Users\TG456GS\source\repos\training\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.pdb
 C:\Users\TG456GS\source\repos\training\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.genruntimeconfig.cache
+C:\Users\TG456GS\source\repos\training\PizzaStore\PizzaStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\TG456GS\source\repos\training\PizzaStore\PizzaStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TG456GS\source\repos\training\PizzaStore\PizzaStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TG456GS\source\repos\training\PizzaStore\PizzaStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TG456GS\source\repos\training\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TG456GS\source\repos\training\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CopyComplete
